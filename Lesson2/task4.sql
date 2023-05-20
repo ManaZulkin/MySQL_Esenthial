@@ -1,4 +1,4 @@
-drop database Department_office;
+-- drop database Department_office;
 create database Department_office;
 use Department_office;
 

@@ -1,4 +1,4 @@
-drop database storage;
+-- drop database storage;
 create database Storage;
 
 use storage;
